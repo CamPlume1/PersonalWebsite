@@ -134,7 +134,7 @@ a:hover {
 }
 
 .hamburger-icon.open span:nth-child(2){
-   opacity:0;
+    opacity:0;
 }
 
 .hamburger-icon.open span:last-child{
@@ -437,10 +437,3 @@ footer p{
 
 
 /* Mobile Styling */
-
-
-
-
-
-
-
